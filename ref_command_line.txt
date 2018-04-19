@@ -1,0 +1,1 @@
+./run.sh [batch_size] [steps] [weight_decay(0 or 1)] [optimizer(ex. rmsprop, sgd)] [model_name(ex. vgg_19, resnet_v1_152)]
